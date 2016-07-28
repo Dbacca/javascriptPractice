@@ -1,0 +1,15 @@
+var object1 = new Object();
+var object2 = new Object();
+var object3 = new Object();
+object1.size = 33;
+object1.weight = 22;
+object1.zone = "minnesota";
+object2.size = 11;
+object2.weight = 15;
+object2.zone = "chicago";
+object3.size = 12;
+object3.weight = 44;
+object3.zone = "tampa";
+console.log(object1);
+console.log(object2);
+console.log(object3);

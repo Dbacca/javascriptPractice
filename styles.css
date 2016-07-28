@@ -1,0 +1,29 @@
+.table_style {
+    width: 500px;
+    margin: 0px auto;
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+}
+
+table tr td {
+    width: 50%;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+table tr th {
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+.zebra {
+    background-color: cornflowerblue;
+    color: black;
+}
+
+h1 {
+    color: aqua;
+}
